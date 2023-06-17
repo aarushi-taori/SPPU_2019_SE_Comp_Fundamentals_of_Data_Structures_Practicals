@@ -21,3 +21,8 @@ Practical 9 : Write a Python program to compute following computation on matrix:
 <br>c) Multiplication of two matrices 
 <br>d) Transpose of a matrix
 
+**GROUP - B**
+
+Practical 12 : 
+<br>a)	Write a Python program to store names and mobile numbers of your friends in sorted order on names. Search your friend from list using binary search (recursive and non- recursive). Insert friend if not present in phonebook
+<br>b)	Write a Python program to store names and mobile numbers of your friends in sorted order on names. Search your friend from list using Fibonacci search. Insert friend if not present in phonebook.
