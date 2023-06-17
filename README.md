@@ -15,4 +15,9 @@ Practical 5 : STRING OPERATIONS : Write a Python program to compute following op
 <br>d)	To display index of first appearance of the substring
 <br>e)	To count the occurrences of each word in a given string
 
+Practical 9 : Write a Python program to compute following computation on matrix:
+<br>a) Addition of two matrices	
+<br>B) Subtraction of two matrices
+<br>c) Multiplication of two matrices 
+<br>d) Transpose of a matrix
 
