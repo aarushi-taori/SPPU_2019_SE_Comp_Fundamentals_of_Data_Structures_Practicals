@@ -15,7 +15,7 @@ Practical 5 : STRING OPERATIONS : Write a Python program to compute following op
 <br>d)	To display index of first appearance of the substring
 <br>e)	To count the occurrences of each word in a given string
 
-Practical 9 : Write a Python program to compute following computation on matrix:
+Practical 9 : MATRIX OPERATIONS : Write a Python program to compute following computation on matrix:
 <br>a) Addition of two matrices	
 <br>b) Subtraction of two matrices
 <br>c) Multiplication of two matrices 
@@ -23,6 +23,6 @@ Practical 9 : Write a Python program to compute following computation on matrix:
 
 **GROUP - B**
 
-Practical 12 : 
+Practical 12 : BINARY SEARCH & FIBONACCI SEARCH
 <br>a)	Write a Python program to store names and mobile numbers of your friends in sorted order on names. Search your friend from list using binary search (recursive and non- recursive). Insert friend if not present in phonebook
 <br>b)	Write a Python program to store names and mobile numbers of your friends in sorted order on names. Search your friend from list using Fibonacci search. Insert friend if not present in phonebook.
