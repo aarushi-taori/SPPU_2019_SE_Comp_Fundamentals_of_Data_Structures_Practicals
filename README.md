@@ -17,7 +17,7 @@ Practical 5 : STRING OPERATIONS : Write a Python program to compute following op
 
 Practical 9 : Write a Python program to compute following computation on matrix:
 <br>a) Addition of two matrices	
-<br>B) Subtraction of two matrices
+<br>b) Subtraction of two matrices
 <br>c) Multiplication of two matrices 
 <br>d) Transpose of a matrix
 
