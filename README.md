@@ -27,11 +27,11 @@ Practical 12 : BINARY SEARCH & FIBONACCI SEARCH
 <br>a)	Write a Python program to store names and mobile numbers of your friends in sorted order on names. Search your friend from list using binary search (recursive and non- recursive). Insert friend if not present in phonebook
 <br>b)	Write a Python program to store names and mobile numbers of your friends in sorted order on names. Search your friend from list using Fibonacci search. Insert friend if not present in phonebook.
 
-Practical 14 : Write a Python program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
+Practical 14 : SORTING TECHNIQUES : Write a Python program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
 <br>a)	Selection Sort
 <br>b)	Bubble sort and display top five scores.
 
-Practical 15 : Write a Python program to store second year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
+Practical 15 : SORTING TECHNIQUES : Write a Python program to store second year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
 <br>a)	Insertion sort
 <br>b)	Shell Sort and display top five scores
 
