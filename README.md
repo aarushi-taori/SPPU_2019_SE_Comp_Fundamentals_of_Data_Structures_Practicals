@@ -62,8 +62,13 @@ Practical 27 : INFIX TO POSTFIX : Implement C++ program for expression conversio
 
 **GROUP - E**
 
-Practical 29 : Queues are frequently used in computer programming, and a typical example is the creation of a job queue by an operating system. If the operating system does not use priorities, then the jobs are processed in the order they enter the system. Write C++
+Practical 29 : QUEUE : Queues are frequently used in computer programming, and a typical example is the creation of a job queue by an operating system. If the operating system does not use priorities, then the jobs are processed in the order they enter the system. Write C++
 program for simulating job queue. Write functions to add job and delete job from queue.
+
+Practical 31 : DEQUE : A double-ended queue (deque) is a linear list in which additions and deletions may be made at either end. Obtain a data representation mapping a deque into a one- dimensional array. Write C++ program to simulate deque with functions to add and
+delete elements from either end of the deque.
+
+Practical 32 : CIRCULAR QUEUE : Pizza parlor accepting maximum M orders. Orders are served in first come first served basis. Order once placed cannot be cancelled. Write C++ program to simulate the system using circular queue using array.
 
 
 
