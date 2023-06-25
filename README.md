@@ -49,5 +49,22 @@ Practical 23 : DOUBLY LINKED LIST : Write C++ program for storing binary number 
 <br>b)	Add two binary numbers
 
 
+**GROUP - D**
+
+Practical 25 : PALINDROME : A palindrome is a string of character that‘s the same forward and backward. Typically, punctuation, capitalization, and spaces are ignored. For example, “Poor Dan is in a droop” is a palindrome, as can be seen by examining the characters “poor danisina droop” and observing that they are the same forward and backward. One way to check for a palindrome is to reverse the characters in the string and then compare with them the original-in a palindrome, the sequence will be identical. Write C++ program with functions-
+<br>a)	To print original string followed by reversed string using stack
+<br>b)	To check whether given string is palindrome or not
+
+Practical 27 : INFIX TO POSTFIX : Implement C++ program for expression conversion as infix to postfix and its evaluation using stack based on given conditions:
+<br>1.	Operands and operator, both must be single character.
+<br>2.	Input Postfix expression must be in a desired format.
+<br>3.	Only '+', '-', '*' and '/ ' operators are expected.
+
+**GROUP - E**
+
+Practical 29 : Queues are frequently used in computer programming, and a typical example is the creation of a job queue by an operating system. If the operating system does not use priorities, then the jobs are processed in the order they enter the system. Write C++
+program for simulating job queue. Write functions to add job and delete job from queue.
+
+
 
 
